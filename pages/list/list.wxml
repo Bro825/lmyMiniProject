@@ -1,0 +1,5 @@
+<!--list.wxml-->
+<text>list.wxml</text>
+ <view class="usermotto">
+    <text class="user-motto">{{list[0].name}}</text>
+  </view>
